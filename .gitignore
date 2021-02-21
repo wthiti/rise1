@@ -1,0 +1,5 @@
+/vendor
+/bin
+/.idea
+.phpunit.result.cache
+composer-setup.php
